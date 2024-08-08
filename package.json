@@ -1,7 +1,7 @@
 {
   "name": "memory-game",
   "version": "0.1.0",
-  "homepage": "https://saachiduggal.github.io/CardFlipMemoryGame/",
+  "homepage": "https://SaachiDuggal.github.io/CardFlipMemoryGame/",
   "private": true,
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "7.21.11",
